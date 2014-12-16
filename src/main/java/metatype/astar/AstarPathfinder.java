@@ -71,7 +71,7 @@ public class AstarPathfinder<V, E> {
       current = open.remove();
 
       // all done!
-      if (current.vertex == p.end) {
+      if (current.vertex.equals(p.end)) {
         return current;
       }
 
