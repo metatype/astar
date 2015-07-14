@@ -43,7 +43,6 @@
     <connection>scm:git:git@github.com:metatype/astar.git</connection>
     <url>scm:git:git@github.com:metatype/astar.git</url>
     <developerConnection>scm:git:git@github.com:metatype/astar.git</developerConnection>
-    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <repository>
