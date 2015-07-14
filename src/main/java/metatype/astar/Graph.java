@@ -66,14 +66,4 @@ public interface Graph<V, E> {
    * @return the edge weight
    */
   double getWeight(E edge);
-
-  /**
-   * Sets the edge weight.
-   * 
-   * @param edge
-   *          the edge
-   * @param w
-   *          the weight
-   */
-  void setWeight(E edge, double w);
 }
