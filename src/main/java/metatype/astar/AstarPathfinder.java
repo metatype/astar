@@ -12,7 +12,7 @@ import java.util.Set;
  * Uses an heuristic estimate to improve the routing speed and prune the search
  * space.
  * 
- * @see http://en.wikipedia.org/wiki/A*_search_algorithm
+ * @see <a href="http://en.wikipedia.org/wiki/A*_search_algorithm">A* search algorithm</a>
  * 
  * @author metatype
  * 
