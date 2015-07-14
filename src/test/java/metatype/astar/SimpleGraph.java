@@ -88,7 +88,14 @@ public class SimpleGraph implements Graph<Vertex, Edge> {
     return edge.weight;
   }
   
-  @Override
+  /**
+   * Sets the edge weight.
+   * 
+   * @param edge
+   *          the edge
+   * @param w
+   *          the weight
+   */
   public void setWeight(Edge edge, double w) {
     edge.weight = w;
   }
